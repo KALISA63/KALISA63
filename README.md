@@ -1,5 +1,5 @@
 - 👋 Hi Dude, My name is KALISA Jacques A.K.A Captain
-- 👀 I’m interested in software engeneering
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning At ALX-Holberton University
 - 💞️ I’m looking to collaborate with everyone
 - 📫 Contact: E-mail: -kaljama63@gmail.com
